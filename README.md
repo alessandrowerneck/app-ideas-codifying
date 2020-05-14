@@ -1,6 +1,6 @@
 ## :ledger: App Ideas Collection
 
-![App Ideas Image](./app-ideas.png)
+![App Ideas Image](./app-ideas-green-01.png)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
