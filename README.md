@@ -1,4 +1,5 @@
-## :ledger: App Ideas Collection
+## :green_book: App Ideas Collection
+### suggested by: **FlorinPop17** - App Ideas - https://github.com/florinpop17/app-ideas
 
 ![App Ideas Image](./app-ideas-green-01.png)
 
